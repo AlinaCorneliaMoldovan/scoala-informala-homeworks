@@ -2,9 +2,7 @@
 import java.util.Scanner;
 
 /**
- * @param
  * @author Created by Alina Moldovan on 7/24/2017
- * @revert
  */
 
 // Implement a bubble sort algorithm to sort an array of SalesRepresentative objects in descending order. The sorting
